@@ -1,5 +1,5 @@
-# av-LLM-Papers-and-Projects (also multi-modualities containing audio & visual info)
-Audio-visual large language model (av-LLM)  related papers &amp; projects
+# av-LLM-Papers-and-Projects 
+Audio-visual large language model (av-LLM)  related papers &amp; projects, also extended to multi-modualities containing audio & visual info
 
 ## Papers 
 ### Year 2024
