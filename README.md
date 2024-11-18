@@ -10,6 +10,7 @@ Audio-visual large language model (av-LLM)  related papers &amp; projects, also 
 - Audio-visual training for improved grounding in video-text LLMs https://arxiv.org/abs/2407.15046
 - Empowering LLMs with Pseudo-Untrimmed Videos for Audio-Visual Temporal Understanding https://arxiv.org/abs/2403.16276
 - Meerkat: Audio-Visual Large Language Model for Grounding in Space and Time https://arxiv.org/abs/2403.16276
+- AVicuna: Audio-Visual LLM with Interleaver and Context-Boundary Alignment for Temporal Referential Dialogue https://arxiv.org/html/2403.16276v1
 ### BF Year 2024
 - Spoken Moments: Learning Joint Audio-Visual Representations from Video Descriptions https://arxiv.org/abs/2105.04489
 - Language Is Not All You Need: Aligning Perception with Language Models  https://arxiv.org/abs/2302.14045
