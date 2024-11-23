@@ -3,6 +3,7 @@ Audio-visual large language model (av-LLM)  related papers &amp; projects, also 
 
 ## Papers 
 ### Year 2024
+- InternVideo2: Scaling Foundation Models for Multimodal Video Understanding https://arxiv.org/abs/2403.15377
 - SaSR-Net: Source-Aware Semantic Representation Network for Enhancing Audio-Visual Question Answering https://arxiv.org/html/2411.04933v2
 - Enhancing Multimodal LLM for Detailed and Accurate Video Captioning using Multi-Round Preference Optimization https://arxiv.org/html/2410.06682v1
 - video-SALMONN: Speech-Enhanced Audio-Visual Large Language Models https://arxiv.org/abs/2406.15704
@@ -13,6 +14,8 @@ Audio-visual large language model (av-LLM)  related papers &amp; projects, also 
 - AVicuna: Audio-Visual LLM with Interleaver and Context-Boundary Alignment for Temporal Referential Dialogue https://arxiv.org/html/2403.16276v1
 
 ### BF Year 2024
+- VAST: A Vision-Audio-Subtitle-Text Omni-Modality Foundation Model and Dataset https://arxiv.org/abs/2305.18500
+- VALOR: Vision-Audio-Language Omni-Perception Pretraining Model and Dataset https://arxiv.org/abs/2304.08345
 - Spoken Moments: Learning Joint Audio-Visual Representations from Video Descriptions https://arxiv.org/abs/2105.04489
 - Language Is Not All You Need: Aligning Perception with Language Models  https://arxiv.org/abs/2302.14045
 - ImageBind: One Embedding Space To Bind Them All https://arxiv.org/abs/2305.05665
