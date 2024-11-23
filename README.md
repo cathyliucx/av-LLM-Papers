@@ -3,6 +3,9 @@ Audio-visual large language model (av-LLM)  related papers &amp; projects, also 
 
 ## Papers 
 ### Year 2024
+- A Survey of Multimodal Large Language Model from A Data-centric Perspective https://arxiv.org/abs/2404.16821
+- The Curse of Multi-Modalities: Evaluating Hallucinations of Large Multimodal Models across Language, Visual, and Audio https://arxiv.org/abs/2410.12787
+- A Comprehensive Methodological Survey of Human Activity Recognition Across Divers Data Modalities https://arxiv.org/abs/2409.09678
 - InternVideo2: Scaling Foundation Models for Multimodal Video Understanding https://arxiv.org/abs/2403.15377
 - SaSR-Net: Source-Aware Semantic Representation Network for Enhancing Audio-Visual Question Answering https://arxiv.org/html/2411.04933v2
 - Enhancing Multimodal LLM for Detailed and Accurate Video Captioning using Multi-Round Preference Optimization https://arxiv.org/html/2410.06682v1
